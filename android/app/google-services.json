@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "304536643481",
+    "firebase_url": "https://restoreandrenew-ef733.firebaseio.com",
+    "project_id": "restoreandrenew-ef733",
+    "storage_bucket": "restoreandrenew-ef733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304536643481:android:1874dae3671fab79",
+        "android_client_info": {
+          "package_name": "com.brendancraigwilde.restoreandrenew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304536643481-rfi2pm5pp0f349sj06rs0uunno5572nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhbI1Y9uPPznMVlAfngziumX_VB7G3mEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304536643481-rfi2pm5pp0f349sj06rs0uunno5572nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "304536643481-0l1g906d8u82jem7i4rsttioksv0h9l3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brendancraigwilde.restoreandrenew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304536643481:android:fba599c6011f17ad",
+        "android_client_info": {
+          "package_name": "com.brendancraigwilde.restoreandrenew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304536643481-rfi2pm5pp0f349sj06rs0uunno5572nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhbI1Y9uPPznMVlAfngziumX_VB7G3mEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304536643481-rfi2pm5pp0f349sj06rs0uunno5572nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "304536643481-0l1g906d8u82jem7i4rsttioksv0h9l3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brendancraigwilde.restoreandrenew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

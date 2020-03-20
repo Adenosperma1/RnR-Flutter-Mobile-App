@@ -1,0 +1,119 @@
+name: restoreandrenew
+description: A specimen collecting app.
+version: 1.0.0+19 #update in site_list_page.dart/_dialogUserPreferences
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+  
+
+dependencies:
+
+
+  flutter:
+    sdk: flutter
+    
+  
+
+  cloud_firestore: ^0.12.9+2
+  sqflite: ^1.1.6
+  mailer: 3.0.2
+  http: 0.12.0+2
+  package_info: ^0.4.0+6
+  back_button_interceptor: ^4.2.1
+
+  # Lets me add rgb values for a color
+  color: any
+  barcode_scan: 1.0.0
+  date_format: 1.0.6
+  uuid: 2.0.2
+  path_provider: 1.2.0
+  location: ^2.3.5
+  csv: ^4.0.3
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  build_runner: 1.6.7
+  json_serializable: 3.2.2
+  
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+  - assets/title.png
+  - assets/barcode.png
+  - assets/headerSmall.jpg
+  - assets/siteIcon.png
+  - assets/appBarTitle.png
+ 
+  
+  
+
+  fonts:
+
+      - family: Avenir
+        fonts:
+          - asset: fonts/AvenirLTStd-Light.otf
+            weight: 100
+            style: normal
+          - asset: fonts/AvenirLTStd-LightOblique.otf
+            weight: 100
+            style: italic
+          - asset: fonts/AvenirLTStd-Roman.otf
+            weight: 200
+            style: normal
+          - asset: fonts/AvenirLTStd-Oblique.otf
+            weight: 200
+            style: italic
+          - asset: fonts/AvenirLTStd-Book.otf
+            weight: 300
+            style: normal
+          - asset: fonts/AvenirLTStd-BookOblique.otf
+            weight: 300
+            style: italic
+          - asset: fonts/AvenirLTStd-Medium.otf
+            weight: 400
+            style: normal
+          - asset: fonts/AvenirLTStd-MediumOblique.otf
+            weight: 400
+            style: italic
+          - asset: fonts/AvenirLTStd-Heavy.otf
+            weight: 500
+            style: normal
+          - asset: fonts/AvenirLTStd-HeavyOblique.otf
+            weight: 500
+            style: italic
+          - asset: fonts/AvenirLTStd-Black.otf
+            weight: 600
+            style: normal
+          - asset: fonts/AvenirLTStd-BlackOblique.otf
+            weight: 600
+            style: italic
+      - family: Helvetica
+        fonts:
+          - asset: fonts/HelveticaNeue-Medium.otf
+            weight: 200
+            style: normal
+         
+     
+            
+            
+            
+
+
+
+
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages
