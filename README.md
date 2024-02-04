@@ -1,3 +1,26 @@
+Restore and Renew Flutter ios android app.
+Written for the Sydney Botanic Gardens.
+Was available on the Apple app and Android Stores. 
+The project is now over and the app has been removed.
+
+Created for the Restore and Renew project to collect data for 10, 000's of plant specimens for DNA sequencing.
+Collectors were using pencil and paper to record details for each specimen including gps, plant species, population details etc.
+This meant the collector needed to carry a gps (or a phone), it was then copied into a spreadsheet and imported into a database.
+This process was slow and data was often wrong or missing. 
+
+
+
+
+Featured:
+Offline first app.
+local sqFlite database.
+That sync'd to a Firestore database with tables for;
+    species: Botanical names of plant species that are required for the project
+    users: user accounts (not very secure but good enough for the project)
+    
+
+
+
 Version 1.0.19
 Added a black list to text fields for ' & "
 Changed Fields to have cap first letter
