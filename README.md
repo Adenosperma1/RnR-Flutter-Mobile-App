@@ -9,13 +9,7 @@ This meant the collector needed to carry a gps (or a phone). This hand written d
 
 
 
-
-Featured:
-Offline first app.
-local sqFlite database.
-remote Firestore database with tables for;
-    species: Botanical names of plant species that are required for the project
-    users: user accounts (not very secure but good enough for the project)
+Check /Docs folder for more info.
     
     
 
